@@ -8,11 +8,11 @@
     a.  creazione file js
     b. installazione d node js 
     c. installazione di express
-    d. avviare con run start
+    d. avviare con run start 
 
 
 2. Creiamo un array dove inserire una lista di almeno 5 post, per ognuno indicare titolo, contenuto, immagine e tags (tags è un array di stringhe)
-    a. creazione file js doce ci sarà un array di oggetti
+    a. creazione file js dove ci sarà un array di oggetti
     b. creare cartella controller> file js controller --> funzione index per richiamare array di oggetti
 
 
