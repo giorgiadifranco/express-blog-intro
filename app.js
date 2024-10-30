@@ -1,5 +1,5 @@
 const express = require ('express')
-const postsController = require('./controllers/postcontroller')
+const postsController = require('./controllers/postcontroller.js')
 const app = express()
 const port = 3000
 const host = 'http://127.0.0.1'
