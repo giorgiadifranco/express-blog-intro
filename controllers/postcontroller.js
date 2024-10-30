@@ -1,8 +1,8 @@
 const posts = require ('../data/posts');
 
-function index(){
+function index(req, res){
 
-    resizeBy.json({
+    res.json({
         data: posts,
         count: posts.length
     })
